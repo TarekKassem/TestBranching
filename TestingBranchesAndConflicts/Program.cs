@@ -10,6 +10,7 @@ namespace TestingBranchesAndConflicts
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TEST");
         }
     }
 }
