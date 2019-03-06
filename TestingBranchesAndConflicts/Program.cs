@@ -14,6 +14,7 @@ namespace TestingBranchesAndConflicts
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine(a);
+                Console.WriteLine("N'imorte quoi");
             }
         }
     }
