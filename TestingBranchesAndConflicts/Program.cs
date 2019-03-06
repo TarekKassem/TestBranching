@@ -11,6 +11,7 @@ namespace TestingBranchesAndConflicts
         static void Main(string[] args)
         {
             Console.WriteLine("TEST");
+            Console.WriteLine("J'ai faim!!!!!");
         }
     }
 }
