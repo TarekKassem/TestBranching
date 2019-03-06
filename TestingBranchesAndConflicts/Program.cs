@@ -10,9 +10,11 @@ namespace TestingBranchesAndConflicts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST");
-            int i = 0 ;
-            Console.WriteLine("Va manger");
+            int a=15;
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(a);
+            }
         }
     }
 }
